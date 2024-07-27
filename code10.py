@@ -3,7 +3,7 @@ x=y=z=0
 x=int(input("enter x:"))
 y=int(input("enter y:"))
 z=int(input("enter z:"))
-maxx=0
+maxx=x
 if(y>maxx):
     maxx=y
 if(z>maxx):
